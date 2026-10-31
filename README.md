@@ -86,7 +86,7 @@ A loop clicks when the end does not match the start. Two things cause it:
 
 The tracks themselves are not in this repo yet.
 
-## Not done yet
+## Planned
 
 - "Failed" section tracks (dissonant drop, glitch, slow descent).
 - Sound effects: whoosh, impact, glitch, tension sting.
